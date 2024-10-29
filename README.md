@@ -9,12 +9,16 @@ in <font color='red' face='Arial'><strong>*some juournal*</strong> </font>
 <p align='center'><img src='./assets/plantform.png' height=300 width=300></p>
 
 ### <font color='green'> Input and Output 
-<div style='display:flex'>
+<center class='half'>
+<img src='./assets/IMG_2093.jpg' width=300px>
+<img src='./assets/IMG_2093_result_box.jpg' width=300px>
+</center>
+<!-- <div style='display:flex'>
 <p align='left'><img src='./assets/IMG_2093.jpg' height=300 width=300  alt='Input'
                       style="margin-left: 100px;">
 <p align='right'><img src='./assets/IMG_2093_result_box.jpg'  alt='Output'
                        height=300 width=300 style="margin-left: 60px;">
-</div>
+</div> -->
 
 
 
