@@ -1,6 +1,6 @@
 <p align='center'><h3>Automate Grape leaf disc diagnosis for downy mildew sporulation </h3></p>
 
-High precision, low-cost phenotyping system for leaf diseases diagnosis with deep learning application
+High precision, low-cost phenotyping system for leaf diseases diagnosis with deep learning application \
 Qi Tian, Gang Zhao*, Junjie Qu, Ling Yin, Shumei Wei, Jing Wang, Qiang Yu* 
 in <font color='red' face='Times New Roman' size=4>_some juournal_ </font>
 
