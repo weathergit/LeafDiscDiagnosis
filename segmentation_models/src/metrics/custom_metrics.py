@@ -1,1 +1,0 @@
-# custom metric shoul have self.__name__

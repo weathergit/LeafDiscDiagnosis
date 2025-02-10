@@ -1,1 +1,0 @@
-models weights and performance are aviliable in folder/weights  and in airticles.
